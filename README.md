@@ -9,7 +9,6 @@ First Movies
 
 
 
-| ----------- | ----------- |
 
 Second Movies
 
